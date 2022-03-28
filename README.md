@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahappywarrior
+- 👋 Hi, I’m @shuhui wang
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning genetic algorithm
 - 💞️ I’m looking to collaborate on big data in environmental science
