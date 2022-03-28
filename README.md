@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mylittlebeaconnoel
+- 👋 Hi, I’m @ahappywarrior
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning genetic algorithm
 - 💞️ I’m looking to collaborate on big data in environmental science
